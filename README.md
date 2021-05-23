@@ -1,3 +1,5 @@
-# Data Structure and Algorithms CSL2020 Assignments
+# CSL2020 Data Structures and Algorithms
 
-This repository contains the assignments for Data Structure and Algorithm Course (CSL2020) at IITJ
+_Course Instructor: Dr. Somitra Kumar Sanadhya_
+
+This repository contains my assignments for the course CSL2020 Data Structures and Algorithms
